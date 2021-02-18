@@ -5,6 +5,9 @@
   "private": "true",
   "dependencies": {
     "@google-cloud/storage": "^5.4.0",
+    "@sentry/browser": "^6.2.0",
+    "@sentry/integrations": "^6.2.0",
+    "@sentry/tracing": "^6.2.0",
     "acorn": "^7.3.1",
     "angular": "^1.8.0",
     "angular-ui-router": "^1.0.26",
@@ -41,7 +44,7 @@
     "nodemailer": "^4.7.0",
     "nodemailer-smtp-transport": "^2.7.4",
     "nodemon": "^1.19.4",
-    "pa11y-ci": "^2.3.0",
+    "pa11y-ci": "^2.4.0",
     "request": "^2.88.2",
     "showdown": "^1.9.1",
     "supertest": "^4.0.2",
